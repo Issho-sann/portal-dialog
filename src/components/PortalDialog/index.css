@@ -1,0 +1,17 @@
+.protal-dialog {
+    width: 50%;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    border: 1px solid #ccc;
+    text-align: center;
+}
+.close {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+    font-size: 22px;
+}
